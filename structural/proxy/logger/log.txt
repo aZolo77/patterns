@@ -1,0 +1,3 @@
+ADD: Hello 
+READ: World 
+REMOVE: ! 
